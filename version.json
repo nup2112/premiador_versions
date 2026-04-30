@@ -1,7 +1,7 @@
 {                                                                                              
-    "version": "1.2.1",
-    "url": "https://github.com/nup2112/premiador_versions/releases/download/v1/premiador_admin_setup_1.2.1.exe",
-    "filename": "premiador_admin_setup_1.2.1.exe",
+    "version": "1.2.2",
+    "url": "https://github.com/nup2112/premiador_versions/releases/download/v1/premiador_admin_setup_1.2.2.exe",
+    "filename": "premiador_admin_setup_1.2.2.exe",
     "notes": "Correcciones de rendimiento y bugs.",
     "mandatory": true
   }
